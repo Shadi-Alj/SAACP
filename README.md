@@ -1,6 +1,6 @@
 # SAACP
 
-# LiteMedSAM – CVPR 2026 Submission (Code Release Placeholder)
+# Subregion-Aware Asymmetric Conformal Prediction for MedSAM |CVPR 2026 Submission (Code Release Placeholder)
 
 This repository contains the working implementation for our CVPR 2026 submission **“Subregion-Aware Asymmetric Conformal Prediction for MedSAM”**. The method adapts LiteMedSAM to multi-modal MRI data, trains multi-head segmenters, and applies weighted conformal prediction with subregion-specific adjustments to obtain distribution-shift-robust uncertainty bounds.
 
