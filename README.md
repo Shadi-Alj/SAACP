@@ -1,6 +1,6 @@
-# SAACP
+# CAACP
 
-# Subregion-Aware Asymmetric Conformal Prediction for MedSAM |CVPR 2026 Submission (Code Release Placeholder)
+# Reliable Volumetric Uncertainty for Foundation Models: Class-Aware Asymmetric Conformal Prediction |CVPR 2026 Submission (Code Release Placeholder)
 
 This repository contains the working implementation for our CVPR 2026 submission **“Subregion-Aware Asymmetric Conformal Prediction for MedSAM”**. The method adapts LiteMedSAM to multi-modal MRI data, trains multi-head segmenters, and applies weighted conformal prediction with subregion-specific adjustments to obtain distribution-shift-robust uncertainty bounds.
 
